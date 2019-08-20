@@ -1,2 +1,2 @@
-# testdock
-repo2docker test repo
+# wavedock
+jupyter-repo2docker recipe repo for creating a bioinformatics docker
